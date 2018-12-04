@@ -11,8 +11,8 @@ xxx -------------- Important -----------xxx
 To run the program
 
 1. Compile the ComputJ.java
-    	javac -d . ComputeJ.java
+    	---->javac -d . ComputeJ.java
 2. Then compile GradientDescent.java
-    	javac -d . GradientDescent.java
+    	---->javac -d . GradientDescent.java
 3. Run the progarm
-    	java ML/GradientDescent.java
+    	---->java ML/GradientDescent.java
