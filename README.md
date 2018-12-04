@@ -4,6 +4,7 @@ This is created while learning Machine Learning for the first week of my course.
 I just created program to run gradient Descent
 
 xxx -------------- Important -----------xxx
+
 -->The values in the progarm are hard coded.
  
 -->May contains error while importing large data set.
