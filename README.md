@@ -1,4 +1,4 @@
-# Gradient-Descent-using-java
+# Linear_Regression-using-java
 
 This is created while learning Machine Learning for the first week of my course.
 I just created program to run gradient Descent
